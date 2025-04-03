@@ -89,14 +89,11 @@ To run this project, the following software and version numbers are required:-
 #### Operating Systems Tested
 
 1. Ubuntu 18.04 - Windows Subsystem for Linux (WSL)
-2. Ubuntu 16.04
-3. macOS - High Sierra
 
 #### Web Browsers Tested
 
-1. Firefox Quantum - v66.0.5 (64-bit)
-2. Brave Browser - v0.64.76
-3. Google Chrome - v74.0.3729.157 (64-bit)
+1. Brave Browser - v0.64.76
+2. Google Chrome - v74.0.3729.157 (64-bit)
 
 ### Setup Instructions
 
